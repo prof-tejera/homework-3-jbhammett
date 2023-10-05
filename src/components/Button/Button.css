@@ -1,6 +1,6 @@
 .Default-button {
   border: none;
-  color: black;
+  color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -12,9 +12,10 @@
 }
 
 .Default-button-active {
-  background-color: rgb(71, 145, 241);
+  background-color: #008080;
 }
 
 .Default-button:hover {
-  background-color: rgb(71, 145, 241);
+  background-color: #444;
 }
+
