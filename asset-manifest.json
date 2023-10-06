@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-3-jbhammett/static/css/main.cbcd2819.css",
+    "main.js": "/homework-3-jbhammett/static/js/main.b5e63361.js",
+    "index.html": "/homework-3-jbhammett/index.html",
+    "main.cbcd2819.css.map": "/homework-3-jbhammett/static/css/main.cbcd2819.css.map",
+    "main.b5e63361.js.map": "/homework-3-jbhammett/static/js/main.b5e63361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbcd2819.css",
+    "static/js/main.b5e63361.js"
+  ]
+}
