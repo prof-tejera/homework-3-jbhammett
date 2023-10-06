@@ -1,6 +1,6 @@
 import "./Button.css";
 
-const Button = ({ active, text, ...btnProps }) => {
+const Button = ({ active, text, small, ...btnProps }) => {
   return (
     <button
       className={active ? "Default-button Default-button-active" : "Default-button"}
